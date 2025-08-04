@@ -1153,6 +1153,15 @@ input
 {
     height: 800px;
 }
+#privacy img
+{
+    margin-top: 100px;
+}
+#cookies img
+{
+    margin-top: 200px;
+}
+
 .article
 {
     margin-left: 100px;
